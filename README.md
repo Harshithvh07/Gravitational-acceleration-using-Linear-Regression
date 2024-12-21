@@ -5,10 +5,9 @@
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -27,5 +26,11 @@ To run this project, you need to have Python installed along with the following 
 - numpy
 - matplotlib
 - scikit-learn
+## Result
+-Various evaluation metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared value are calculated.
+-The script generates plots showing the original data, the fitted line, residuals, and predictions for new fall times.
+
+## Contributing 
+Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements, new features, or bug fixes.
 
 
